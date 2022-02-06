@@ -1,3 +1,4 @@
 This is Text One
 This is Text Second line
 This is Text third line
+Logo Alignment is now centerd
